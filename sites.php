@@ -1,4 +1,5 @@
 <h2 class="section_title">Sites</h2>
+<p>Here are the 5 most recent projects I've been involved in.</p>
 
 <a class="website_link" href="http://vibio.com">Vibio</a>
 <div class="website_description">
