@@ -1,6 +1,7 @@
 <h2 class="section_title">About Me</h2>
 <p>
-	Hi! My name is Nelson Monterroso. I'm a native to the Los Angeles area, went to school in San Luis Obispo, CA and currently reside and work near San Jose, CA.
+	Hi! My name is Nelson Monterroso. I was born in the Los Angeles, CA area, went to school in San Luis Obispo, CA where I received a B.S. in Computer Engineering.
+	I currently live in South San Francisco and work in San Francisco as a Software Engineer.
 </p>
 <p>
 	Since I started creating websites in the mid-90s on Geocities (back when your home URL was something like geocities.com/tokyo/garden/12345), I've been captivated

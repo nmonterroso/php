@@ -1,7 +1,7 @@
 <h2 class="section_title">Web Technologies</h2>
 <h3 class="section_item_title">Web Frameworks</h3>
 <ul>
-	<li>Drupal</li>
+	<li>Drupal 6/5 module and theme development</li>
 	<li>The MVC philosophy and architecture</li>
 </ul>
 <h3 class="section_item_title">Server-Side Scripting</h3>
@@ -24,6 +24,8 @@
 </ul>
 <h3 class="section_item_title">Other</h3>
 <ul>
+	<li>Basic Apache Management</li>
+	<li>Amazon Web Services</li>
 	<li>CSS</li>
 	<li>HTML</li>
 </ul>

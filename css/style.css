@@ -43,8 +43,22 @@ hr {
 	border: 2px solid #838B8B;
 }
 
-#title {
+#me, #header, #title {
 	float: left;
+}
+
+#me {
+	margin-right: 15px;
+	width: 100px;
+	height: 100px;
+}
+
+#header {
+	width: 775px;
+}
+
+#header p {
+	margin-top: 0;
 }
 
 #title h2 {
@@ -70,7 +84,15 @@ hr {
 	display: none;
 }
 
+#data > div:first-child {
+	display: block;
+}
+
 img.logo {
 	float: left;
 	margin-right: 20px;
+}
+
+.website_description {
+	margin-bottom: 20px;
 }

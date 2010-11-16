@@ -27,4 +27,10 @@ $(document).ready(function()
 	});
 	
 	$("#tabs div:first").click();
+	
+	$(".website_link").click(function()
+	{
+		window.open($(this).attr("href"));
+		return false;
+	});
 });

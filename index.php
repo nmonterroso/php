@@ -11,32 +11,41 @@
 	</head>
 	<body>
 		<div id="content_container">
-			<div id="title">
-				<h2 id="page_title">Nelson Monterroso</h2>
-				<h3>Web Developer Extraordinaire</h3>
+			<div id="me">
+				<img src="http://en.gravatar.com/userimage/18090563/f8fbcfe285e8c5eb21c81dd22245b4ce.jpg?size=100"
+					 alt="Hey look, it's me!" title="Hey look, it's me!" />
 			</div>
-			<div id="tabs">
-				<div id="about">
-					<a>About Me</a>
+			<div id="header">
+				<div id="title">
+					<h2 id="page_title">Nelson Monterroso</h2>
+					<h3>Web Developer Extraordinaire</h3>
 				</div>
-				<div id="tech">
-					<a>Tech</a>
+				<div id="tabs">
+					<div id="about">
+						<a>About Me</a>
+					</div>
+					<div id="tech">
+						<a>Tech</a>
+					</div>
+					<div id="sites">
+						<a>Sites</a>
+					</div>
+					<div id="qualifications">
+						<a>Qualifications</a>
+					</div>
+					<div id="contact">
+						<a>Contact</a>
+					</div>
 				</div>
-				<div id="sites">
-					<a>Sites</a>
-				</div>
-				<div id="qualifications">
-					<a>Qualifications</a>
-				</div>
-				<div id="contact">
-					<a>Contact</a>
-				</div>
+				
+				<div class="clear"></div>
+				
+				<p>
+					Hi, welcome to nmonterroso.net. This site has info on me and some of the things I can be (at least partially) blamed for.
+					For a more traditional view of this info, download my resume in <a href="/files/resume.pdf">pdf</a> format.
+				</p>
 			</div>
 			<div class="clear"></div>
-			<p>
-				Hi, welcome to nmonterroso.net. This site has info on me and some of the things I can be (at least partially) blamed for.
-				For a more traditional view of this info, download my resume in <a href="/files/resume.pdf">pdf</a> format.
-			</p>
 			<hr>
 			<div id="data">
 				<div id="about_data" class="selected">
