@@ -42,7 +42,7 @@
 				
 				<p>
 					Hi, welcome to nmonterroso.net. This site has info on me and some of the things I can be (at least partially) blamed for.
-					For a more traditional view of this info, download my resume in <a href="/files/resume.pdf">pdf</a> format.
+					<!-- For a more traditional view of this info, download my resume in <a href="/files/resume.pdf">pdf</a> format. -->
 				</p>
 			</div>
 			<div class="clear"></div>

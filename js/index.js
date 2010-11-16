@@ -2,7 +2,7 @@ $(document).ready(function()
 {
 	$("#tabs div").click(function()
 	{
-		var fade_time = 500;
+		var fade_time = $.browser.msie ? 1 : 250;
 		var id = $(this)
 			.siblings("div")
 				.removeClass("selected")
