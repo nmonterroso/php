@@ -1,6 +1,6 @@
 <h2 class="section_title">Experience</h2>
 <p>
-	These are descriptions of the establishments I've done work for and my duties while there. For specific site information, please take a look at the
+	These are descriptions of the companies I've worked for and a brief description of my responsibilities. For specific site information, please take a look at the
 	<a target="sites" class="internal_link">sites</a> section.
 </p>
 
