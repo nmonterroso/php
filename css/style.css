@@ -88,9 +88,28 @@ hr {
 	display: block;
 }
 
-img.logo {
+.qualification_logo, .qualification_data {
 	float: left;
+}
+
+.qualification_logo {
 	margin-right: 20px;
+	width: 150px;
+	text-align: center;
+}
+
+.qualification_logo img {
+	max-width: 150px;
+	max-height: 80px;
+}
+
+.qualification_data {
+	width: 700px;
+	padding-top: 10px;
+}
+
+p.qualification_info {
+	margin-bottom: 20px;
 }
 
 .website_description {

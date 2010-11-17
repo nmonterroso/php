@@ -22,6 +22,12 @@
 <ul>
 	<li>MySQL</li>
 </ul>
+<h3 class="section_item_title">3rd Party APIs</h3>
+<ul>
+	<li>Facebook</li>
+	<li>Amazon</li>
+	<li>eBay</li>
+</ul>
 <h3 class="section_item_title">Other</h3>
 <ul>
 	<li>Basic Apache Management</li>
