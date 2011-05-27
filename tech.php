@@ -1,4 +1,8 @@
-<h2 class="section_title">Web Technologies</h2>
+<h2 class="section_title">Mobile</h2>
+<ul>
+	<li>Android</li>
+</ul>
+<h2 class="section_title">Web</h2>
 <h3 class="section_item_title">Web Frameworks</h3>
 <ul>
 	<li>Drupal 6/5 module and theme development</li>

@@ -1,21 +1,37 @@
 <h2 class="section_title">Experience</h2>
 <p>
 	These are descriptions of the companies I've worked for and a brief description of my responsibilities. For specific site information, please take a look at the
-	<a target="sites" class="internal_link">sites</a> section.
+	<a target="sites" class="internal_link">sites</a> and <a target="apps" class="internal_link"> mobile apps</a> sections.
 </p>
+
+<h3 class="section_item_title">Kismet</h3>
+<div class="qualification_logo">
+	<img src="/img/kismet.png" />
+</div>
+<div class="qualification_data">
+	<strong>Dates:</strong> February 2011 - Present<br />
+	<strong>Title:</strong> Co-Founder<br />
+	<strong>Technologies:</strong> Java, PHP, MySQL, JavaScript (jQuery), Drupal 6
+</div>
+<div class="clear"></div>
+<p class="qualification_info">
+	I'm currently the technical co-founder of Kismet. I'm responsible for everything technical, including setting up our infrastructure, writing
+	custom code for our Android app/back-end webservice, and integrating with third parties such as Facebook, Foursquare, and Twilio.
+</p>
+
 
 <h3 class="section_item_title">Vibio</h3>
 <div class="qualification_logo">
 	<img src="/img/vibio.png" />
 </div>
 <div class="qualification_data">
-	<strong>Dates:</strong>June 2010 - Present<br />
-	<strong>Title:</strong>Software Engineer<br />
+	<strong>Dates:</strong> June 2010 - January 2011<br />
+	<strong>Title:</strong> Software Engineer<br />
 	<strong>Technologies:</strong> PHP, MySQL, JavaScript (jQuery), Drupal 6, HTML, CSS 
 </div>
 <div class="clear"></div>
 <p class="qualification_info">
-	I'm currently the sole software engineer at Vibio. I'm responsible for writing new core features, front-end fanciness, maintaining our web servers, and
+	I was the sole software engineer at Vibio. I was responsible for writing new core features, front-end fanciness, maintaining our web servers, and
 	anything else that's technical in nature (even building my desk).
 </p>
 

@@ -1,10 +1,16 @@
 <h2 class="section_title">Sites</h2>
-<p>Here are the 5 most recent projects I've been involved in.</p>
+
+<a class="website_link" href="http://getkismet.com">Kismet</a>
+<div class="website_description">
+	Kismet is a mobile app that lets users share photos, chat, and see who's nearby. I'm currently
+	the only engineer, so I'm responsible for writing both the Android front-end application
+	and back-end web service.	The back-end service leverages Drupal 6 and the Services module.
+</div>
 
 <a class="website_link" href="http://vibio.com">Vibio</a>
 <div class="website_description">
 	Vibio is a social commerce site where users
-	can share, buy, sell, and trade their items among their social circle. I'm currently the only
+	can share, buy, sell, and trade their items among their social circle. I was the only
 	engineer on a small team. This means I wrote all custom code (both back- and front- end) for the
 	initial product release, as well as continuing to maintain the application and add new features.
 	This was developed in just over three month's time using the Drupal 6 CMS and jQuery. 

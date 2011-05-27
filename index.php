@@ -18,7 +18,7 @@
 			<div id="header">
 				<div id="title">
 					<h2 id="page_title">Nelson Monterroso</h2>
-					<h3>Web Developer Extraordinaire</h3>
+					<h3>&nbsp;</h3>
 				</div>
 				<div id="tabs">
 					<div id="about">
@@ -29,6 +29,9 @@
 					</div>
 					<div id="sites">
 						<a>Sites</a>
+					</div>
+					<div id="apps">
+						<a>Mobile Apps</a>
 					</div>
 					<div id="qualifications">
 						<a>Qualifications</a>
@@ -56,6 +59,9 @@
 				</div>
 				<div id="sites_data">
 					<?php require("sites.php"); ?>
+				</div>
+				<div id="apps_data">
+					<?php require("apps.php"); ?>
 				</div>
 				<div id="qualifications_data">
 					<?php require("qualifications.php"); ?>
